@@ -20,4 +20,7 @@
   <li>Principais informações sobre a empresa.</li>
 </ol>
 <h1>Let's plan on your smartphone and notebook</h1>
-<img src="">
+<h2>DESKTOP</h2>
+<img src="./assets/desktop.png">
+<h2>MOBILE</h2>
+<img src="./assets/mobile.png">
